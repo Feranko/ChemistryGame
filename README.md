@@ -1,1 +1,45 @@
 # ChemistryGame
+
+this was thinked for who want to lear some element of the persiodi table, the current :
+Li, 3, Lithium, Metal, solid
+Na, 11, Sodium, Metal, solid
+Mg, 12, Magnesium, Metal, solid
+Al, 13, Aluminium, Metal, solid
+K, 19, Potassium, Metal, solid
+Ca, 20, Calcium, Metal, solid
+Ti, 22, Titanium, Metal, solid
+V, 23, Vanadium, Metal, solid
+Cr, 24, Chromium, Metal, solid
+Mn, 25, Manganese, Metal, solid
+Fe, 26, Iron, Metal, solid
+Co, 27, Cobalt, Metal, solid
+Ni, 28, Nickel, Metal, solid
+Cu, 29, Copper, Metal, solid
+Ga, 31, Gallium, Metal, solid
+Ge, 32, Germanium, Metal, solid
+Ag, 47, Silver, Metal, solid
+Sn, 50, Tin, Metal, solid
+W, 74, Wolfranium/tungsten, Metal, solid
+Pt, 78, Platinum, Metal, solid
+Au, 79, Gold, Metal, solid
+Hg, 80, Mercury, Metal, liquid
+Pb, 82, Lead, Metal, solid
+Si, 14, Silicon, Semi-metals, solid
+As, 33, Arsenic, Semi-metals, solid
+H, 1, Hydrogen, Non-metals, gas
+N, 7, Nitrogen, Non-metals, gases
+8, O, Oxygen, Non-metals, gases
+F, 9, Fluorine, Non-metals, gases
+Cl, 17, Chlorine, Non-metals, gas
+Br, 35, Bromine, Non-metals, liquid
+C, 6, Carbon, Non-metal, solid
+P, 15, Phosphorus, Non-metals, solid
+S, 16, Sulfur, Non-metal, solid
+Se, 34, Selenium, Non-metals, solid
+I, 53, Iodine, Non-metals, solid
+He, 2, Helio, Noble gases
+Ne, 10, Neon, Noble gases
+Ar, 18, Argo, Noble gases
+Kr, 36, Kripto, Noble gases
+Xe, 54, Xenio, Noble gases
+Rn, 86, Radon, Noble gases
