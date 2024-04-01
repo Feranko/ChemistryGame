@@ -1,0 +1,42 @@
+Li, 3, Litio, Metallo, solido 
+Na, 11, Sodio, Metallo, solido 
+Mg, 12, Magnesio, Metallo, solido 
+Al, 13, Alluminio, Metallo, solido 
+K, 19, Potassio, Metallo, solido 
+Ca, 20, Calcio, Metallo, solido 
+Ti, 22, Titanio, Metallo, solido 
+V, 23, Vanadio, Metallo, solido 
+Cr, 24, Cromo, Metallo, solido 
+Mn, 25, Manganese, Metallo, solido 
+Fe, 26, Ferro, Metallo, solido 
+Co, 27, Cobalto, Metallo, solido 
+Ni, 28, Nichel, Metallo, solido 
+Cu, 29, Rame, Metallo, solido 
+Ga, 31, Gallio, Metallo, solido 
+Ge, 32, Germanio, Metallo, solido 
+Ag, 47, Argento, Metallo, solido 
+Sn, 50, Stagno, Metallo, solido 
+W, 74, Wolfranio/tungsteno, Metallo, solido 
+Pt, 78, Platino, Metallo, solido 
+Au, 79, Oro, Metallo, solido 
+Hg, 80, Mercurio, Metallo, licquido 
+Pb, 82, Piombo, Metallo, solido 
+Si, 14, Silicio, Semi-metalli, solido 
+As, 33, Arsenico, Semi-metalli, solido 
+H, 1, Idrogeno, Non-metalli, gas 
+N, 7, Azoto, Non-metalli, gas 
+8, O, Ossigeno, Non-metalli, gas 
+F, 9, Fluoro, Non-metalli, gas 
+Cl, 17, Cloro, Non-metalli, gas 
+Br, 35, Bromo, Non-metalli, licquido 
+C, 6, Carbonio, Non-metalli, solido 
+P, 15, Fosforo, Non-metalli, solido 
+S, 16, Zolfo, Non-metalli, solido 
+Se, 34, Selenio, Non-metalli, solido 
+I, 53, Iodio, Non-metalli, solido 
+He, 2, Helio, Gas-nobili 
+Ne, 10, Neon, Gas-nobili 
+Ar, 18, Argo, Gas-nobili 
+Kr, 36, Kripto, Gas-nobili 
+Xe, 54, Xenio, Gas-nobili 
+Rn, 86, Radon, Gas-nobili 
